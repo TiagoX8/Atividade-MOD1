@@ -1,0 +1,1 @@
+ Para configurar e executar exercícios de JavaScript localmente deve-se instalar o Node.Js e, se preferir, um editor de código (VSCode). Para rodar o exercício, deve-se descomentá-lo e executar o comando "node .\LIST2.JS" na raiz do projeto.
